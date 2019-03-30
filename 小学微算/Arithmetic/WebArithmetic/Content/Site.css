@@ -143,3 +143,23 @@ textarea {
 /*用户进入界面完*/
 
 
+/*学生进入界面*/
+.exercise {
+    top: 200px;
+    position: absolute;
+    right: 1700px;
+}
+
+.examination {
+    top: 200px;
+    position: absolute;
+    right: 1500px;
+}
+
+.btn-group {
+    top: 200px;
+    position: absolute;
+    right: 1300px;
+}
+/*学生进入界面完*/
+

@@ -26,5 +26,11 @@ namespace WebArithmetic.Controllers
 
             return View();
         }
+        public ActionResult Student()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }
