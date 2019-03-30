@@ -1,0 +1,145 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+
+
+
+/* 用户进入界面 */
+.button {
+    width: 100%;
+    height: 100%;
+    background-color: #F5EADB;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0; /*div居中*/
+    margin: 13px auto;
+}
+
+.btn {
+    line-height: 35px;
+    color: black;
+    margin: 10px auto;
+    position: absolute;
+    left: 100px;
+    top: 60px;
+    font-size: 30px;
+}
+
+.mn {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    top: 40px;
+}
+
+.b {
+    line-height: 35px;
+    color: black;
+    margin: 10px auto;
+    position: absolute;
+    right: 380px;
+    top: 40px;
+    font-size: 30px;
+}
+
+.nn {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    right: 458px;
+    top: 40px;
+}
+
+.bt {
+    line-height: 35px;
+    color: black;
+    margin: 5px auto;
+    position: absolute;
+    right: 100px;
+    top: 40px;
+    font-size: 30px;
+}
+
+.ss {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    right: 240px;
+    top: 40px;
+}
+
+.yu {
+    width: 400px;
+    height: 200px;
+    float: left;
+    position: absolute;
+    left: 10px;
+    top: 630px;
+    font-size: 24px;
+    color: lightyellow;
+    text-indent: 26pt; /*首行缩进两个字*/
+}
+
+.tu {
+    width: 500px;
+    height: 500px;
+    background-color: #F5EADB;
+    top: 222px;
+    right: 700px;
+    position: absolute;
+}
+
+.lp {
+    text-align: center;
+    font-size: 50px;
+}
+
+.one {
+    top: 100px;
+    position: absolute;
+    right: 420px;
+}
+
+.two {
+    top: 200px;
+    position: absolute;
+    right: 420px;
+}
+
+.three {
+    top: 300px;
+    position: absolute;
+    right: 420px;
+}
+/*用户进入界面完*/
+
+
